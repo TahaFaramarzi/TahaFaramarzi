@@ -65,13 +65,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaFaramarzi&show_icons=true" alt="TahaFaramarzi" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahaFaramarzi&layout=compact" alt="TahaFaramarzi" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahaFaramarzi" alt="TahaFaramarzi" />
-</p>
+
