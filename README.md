@@ -67,11 +67,11 @@
 </p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaFaramarzi&show_icons=true&theme=radial" alt="TahaFaramarzi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TahaFaramarzi&show_icons=true" alt="TahaFaramarzi" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahaFaramarzi&layout=compact&theme=radial" alt="TahaFaramarzi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahaFaramarzi&layout=compact" alt="TahaFaramarzi" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahaFaramarzi&theme=radial" alt="TahaFaramarzi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahaFaramarzi" alt="TahaFaramarzi" />
 </p>
