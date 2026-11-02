@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taha Faramarzi</h1>
+<h1 align="center">Hi , I'm Taha Faramarzi</h1>
 <h3 align="center">A passionate Full-Stack AI & Python Developer</h3>
 
 <p align="center">
